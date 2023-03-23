@@ -7,6 +7,8 @@ import router from "./router";
 
 // haha
 
+// blabla
+
 Vue.config.productionTip = false;
 
 Vue.use(PrismicVue, {
